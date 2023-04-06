@@ -1,9 +1,16 @@
 ### Oi!! Eu sou a Karol Lessa  :)
 
-<div>
-<a  href="https://beancons.ai/karolllopes">
-<img heigh="180em" src="https://github-readme-status.vercel.app/api?username=karolllopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=karolllopes&layout=compact&langs_count=16&theme=dracula"/>
+
+  
+  <div>
+  <h3>My Github Stats 📊</h3>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolllopes&show_icons=true&theme=dracula)](https://github.com/karolllopes/github-readme-stats)
+  <p align="left" display="flex">
+<a href="http://www.github.com/karolllopes"><img src="https://github-readme-stats.vercel.app/api?username=karolllopes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Karol's GitHub stats" /></a>
+
+</p>
+<hr>
 </div>
 
   <!--animação-->
